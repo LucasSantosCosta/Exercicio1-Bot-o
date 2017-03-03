@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BUTTONS</string>
+    <string name="decrementar">DECREMENT</string>
+    <string name="increment">INCREASE</string>
+    <string name="msgIncrementar">Counter can only increment up to 10</string>
+
+
+</resources>
